@@ -1,0 +1,168 @@
+/* CSS reset settings here */
+*{
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    background-color: white;
+    margin: 0 auto;
+    width: 1000px;
+    padding: 10px;
+    }
+
+    .nav{
+    width: 1000px;
+    background-color: blueviolet;
+    padding-top: 15px;
+    
+    }
+
+    .nav ul li{
+        display: inline-block;
+        margin: 0px;
+        padding: 5px;
+        padding-left: 17px;
+        padding-bottom: 20px;
+        color: white;  
+    }
+
+    .nav-right{
+        vertical-align: top;
+        display: inline-block;
+        font-family: sans-serif;
+      }
+
+    .nav-far-right{
+        display: inline-block;
+        color: white;
+        margin-left: 65px;
+        vertical-align: top;
+    }
+    
+    .nav-far-right img{
+        display: inline-block;
+        vertical-align: top;
+        padding-left:  10px;
+    
+    }
+
+    .nav-far-right p{
+        display: inline-block;
+
+    }
+    
+    .nav-far-right button{
+        color: gold;
+        border-color: gold;
+        background-color: blueviolet;
+        padding: 10px;
+        margin-left: 60px;
+        border-radius: 5px;
+
+
+    }
+    main{
+        background-color: white;
+    }
+
+    main h1{
+        color: blueviolet;
+        margin-top: 50px;
+    }
+
+    
+      .main-text{
+        vertical-align: top;
+        display: inline-block;
+        width: 400px;
+        margin-left: 20px;
+        font-family: sans-serif;
+        color: blueviolet;
+
+      }
+
+      .main-text button{
+          padding-top: 10px;
+          padding-bottom: 10px;
+          padding-left: 30px;
+          padding-right: 30px;
+          background-color: white;
+          color: blueviolet;
+          border-color: blueviolet;
+          border-radius: 10px;
+
+      }
+
+      .main-text-button2{
+        background-color: white;
+        color: blueviolet;
+        border-color: blueviolet;
+        margin-left: 20px;
+        display: inline-block;
+        border-radius: 10px;
+      }
+
+
+      .segment{
+          display: inline-block;
+          margin-left: 20px;
+      }
+
+      .segment-text{
+        display: inline-block;
+        width: 120px;
+      }
+
+      .trio{
+          width: 1000px;
+          margin-top: 100px;
+
+      }
+
+      .trio-box{
+          display: inline-block;
+          vertical-align: top;
+          width: 328px;
+          background-color: white;
+          color: black;
+          min-height: 500px;
+          font-family: sans-serif;
+      }
+
+      .trio-box h2{
+          color: black;
+      }
+
+      .trio-box button{
+          background-color: white;
+          color: blue;
+          border-color: blue;
+          padding: 10px;
+          margin-left: 87px;
+          margin-top: 100px;
+          border-radius: 5px;
+          
+          
+      }
+
+      .footer{
+        width: 960px;
+        display: inline-block;
+        font-family: sans-serif;
+      }
+
+      .footer ul li{
+        display: inline-block;
+        color: black;
+        margin-left: 40px;
+        padding-top: 20px;
+        padding-bottom: 12px;
+      }
+
+    
+
+
+    
+    
